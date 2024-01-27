@@ -1,6 +1,4 @@
-FROM amazoncorretto:17.0.5-al2022-RC-headless
-
-MAINTAINER Richard Chesterwood "contact@virtualpairprogrammers.com"
+FROM openjdk:8u312-jdk
 
 EXPOSE 8080
 
